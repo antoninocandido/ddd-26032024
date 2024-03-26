@@ -13,7 +13,7 @@
 - La comptabilité de la salle reçoit un rapport de gain tous les mois
 
 ## EventStorming
-![](./resources/event-storming.jpg)
+![](./event-storming.jpg)
 
 ## Implémentation
 - Utilisez le langage que vous voulez
